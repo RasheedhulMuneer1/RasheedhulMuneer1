@@ -11,9 +11,9 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RasheedhulMuneer1&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RasheedhulMuneer1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
-- 🔭 I’m currently working on **a Health Tracker App project**
+- I am currently doing an Internship in App Development at CodeAlpha.
 
-- 🌱 I’m currently learning **Java, Machine-Learning**
+- 🌱 Actively learning **Java, React.js, Machine-Learning**
 
 - 📫 How to reach me **marasheedhulmuneer@gamil.com**
 
