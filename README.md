@@ -11,7 +11,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RasheedhulMuneer1&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RasheedhulMuneer1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
-- I am currently doing an Internship in Frond-end Development at Unified Mentor.
 
 - 🌱 Actively learning **Java, React.js, Machine-Learning**
 
@@ -20,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rasheedhul muneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasheedhul muneer" height="30" width="40" /></a>
-<a href="https://medium.com/@rasheedhul muneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasheedhul muneer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rasheedhul_muneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rasheedhul_muneer" height="30" width="40" /></a>
+<a href="https://medium.com/@marasheedhulmuneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasheedhul muneer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
